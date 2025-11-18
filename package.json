@@ -1,0 +1,19 @@
+{
+  "name": "wot-gameface-types",
+  "description": "Types definitions for World of Tanks Gameface",
+  "type": "module",
+  "types": "types/index.d.ts",
+  "license": "MIT",
+  "version": "1.0.2",
+  "author": {
+    "name": "Soprachev Andrei",
+    "email": "soprachev@wotstat.info",
+    "url": "https://wotstat.info"
+  },
+  "devDependencies": {
+    "@types/bun": "latest"
+  },
+  "peerDependencies": {
+    "typescript": "^5"
+  }
+}
