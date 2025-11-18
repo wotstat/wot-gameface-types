@@ -9,6 +9,10 @@
     "email": "soprachev@wotstat.info",
     "url": "https://wotstat.info"
   },
+  "repository": {
+    "type": "github",
+    "url": "https://github.com/wotstat/wot-gameface-types"
+  },
   "devDependencies": {
     "@types/bun": "latest"
   },
