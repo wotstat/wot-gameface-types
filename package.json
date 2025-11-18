@@ -4,7 +4,6 @@
   "type": "module",
   "types": "types/index.d.ts",
   "license": "MIT",
-  "version": "1.0.2",
   "author": {
     "name": "Soprachev Andrei",
     "email": "soprachev@wotstat.info",
